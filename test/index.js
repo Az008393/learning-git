@@ -1,3 +1,2 @@
-iiiiiw
-:wq;
 
+console.log("hello world");
