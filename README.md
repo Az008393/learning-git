@@ -1,3 +1,5 @@
 # learning-git
 
-This repo was used to learn git from Amigoscode Learning how to use git
+Learning how to use git
+with Readme you explain your project you can have checkboxes, customize, beautiful, links etc.
+
